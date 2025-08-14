@@ -65,7 +65,7 @@ Each row represents one delivery record, containing order info, courier profile,
 
 ---
 
-### 🚀 How to Run
+### 🚀 **[Try on this site](https://zomatodeliveryanalytics-luthfi.streamlit.app/)**
 
 ---
 
@@ -155,7 +155,7 @@ Setiap baris mewakili satu catatan pengiriman, berisi informasi pesanan, profil 
 
 ---
 
-### 🚀 Cara Menjalankan
+### 🚀 **[Coba Aplikasinya di Sini](https://zomatodeliveryanalytics-luthfi.streamlit.app/)**
 
 ---
 
